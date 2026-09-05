@@ -36,6 +36,8 @@ The grade classification uses multiple decision paths:
 
 
 ## Part 2 - Create the Flowchart
+<img width="1414" height="2000" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/1bd07f19-a82c-476b-98fd-f9bbda10b12a" />
+
 
 
 
