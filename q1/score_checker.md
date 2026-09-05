@@ -60,6 +60,10 @@ ELSE
 
 END
 
+## Part 4 - Clean Code Implementation
+
+[Score Checker Source Code](./q1/score_checker.py)
+
 ## Part 5 - Test the Program
 
 | Test | Input | Purpose                     |  Expected Output  |    Actual Output  | Result |
