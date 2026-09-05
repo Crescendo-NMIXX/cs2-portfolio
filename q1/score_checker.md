@@ -82,15 +82,15 @@ It is important to test 0 and 100 because they are the minimum and maximum valid
 
 ### 2. Why did you also test -1 and 101?
 
-I tested -1 and 101 to make sure the program rejects scores that are outside the valid range.
+I tested -1 and 101 to make sure the program rejects scores that are outside the accepted range.
 
 ### 3. Which test helped you understand boundary conditions the most?
 
-Testing 75, 80, and 90 helped me understand boundary conditions because these scores are where the classifications change.
+Testing 75, 80, and 90 helped me understand the boundaries better because these are the scores where the classification changes.
 
 ### 4. Did any of your tests initially fail? If yes, what did you change in your program?
 
-No, none of the tests initially failed. The program correctly handled the validation and classification conditions.
+No, none of the tests initially failed, the program worked as expected and gave the correct results for each score.
 
 
 # Reflection
