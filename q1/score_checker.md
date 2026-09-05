@@ -62,7 +62,7 @@ END
 
 ## Part 4 - Clean Code Implementation
 
-[Score Checker Source Code](q1/source_checker.py)
+[Score Checker Source Code](https://github.com/Crescendo-NMIXX/cs2-portfolio/blob/main/q1/score_checker.py)
 
 ## Part 5 - Test the Program
 
