@@ -60,7 +60,6 @@ ELSE
 
 END
 
-
 ## Part 5 - Test the Program
 
 | Test | Input | Purpose                     |  Expected Output  |    Actual Output  | Result |
