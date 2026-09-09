@@ -2,7 +2,7 @@
 
  **Activity:** PSHS Workshop Registration Validator\
  **Name:** Yrrah Gaile A . Villarino\
- **Section:** Your Section\
+ **Section:** 8 - Dahlia\
  **Quarter:** 1
 
 ---
