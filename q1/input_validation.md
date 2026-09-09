@@ -391,7 +391,7 @@ Invalid.
  # Files for This Activity
 
  - https://github.com/Crescendo-NMIXX/cs2-portfolio/blob/main/q1/workshop_validator.py
-- `input_validation.md`
+- https://github.com/Crescendo-NMIXX/cs2-portfolio/blob/main/q1/input_validation.md
 ---
 
  ← Back to Main Portfolio
