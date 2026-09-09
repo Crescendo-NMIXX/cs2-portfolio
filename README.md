@@ -15,4 +15,4 @@ LINKS:
 
 ![Score Checker Flowchart](./q1/score_checker_flowchart.png)
 
-[input_validation](./q1/input_validation.md).
+[input_validation.md](./q1/input_validation.md).
