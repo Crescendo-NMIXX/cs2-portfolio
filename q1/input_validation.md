@@ -390,10 +390,8 @@ Invalid.
 
  # Files for This Activity
 
- - `workshop_validator.py`
+ - https://github.com/Crescendo-NMIXX/cs2-portfolio/blob/main/q1/workshop_validator.py
 - `input_validation.md`
-- `workshop_validator_flowchart.png` if a flowchart was used
-
 ---
 
  ← Back to Main Portfolio
