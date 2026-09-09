@@ -122,7 +122,7 @@ END
 
  ## Source Code File
 
- `workshop_validator.py`
+https://github.com/Crescendo-NMIXX/cs2-portfolio/blob/main/q1/workshop_validator.py
 
  ## Final Code
 
