@@ -16,3 +16,7 @@ LINKS:
 ![Score Checker Flowchart](./q1/score_checker_flowchart.png)
 
 [input_validation.md](./q1/input_validation.md).
+
+[`secure_registration.py`](secure_registration.py)
+
+[`cybersecurity.md`](cybersecurity.md.)
