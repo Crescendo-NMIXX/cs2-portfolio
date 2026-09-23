@@ -354,10 +354,10 @@ Attendance: Late
 
 >The input validation concepts from SG7 became security practices in SG8 by using rules to control what information the program accepts. Instead of simply making the program work, I also considered data privacy, data minimization, acceptable values, format checking, and clear error handling. These practices help make the program safer and more reliable.
 
-Files for This Activity
+---
 
-[`secure_registration.py`](secure_registration.py)
-
-cybersecurity.md
-
-← Back to Main Portfolio
+# Files for This Activity
+- [`secure_registration.py`](secure_registration.py)
+- `cybersecurity.md`
+---
+[← Back to Main Portfolio](../README.md)
