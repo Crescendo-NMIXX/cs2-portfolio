@@ -26,3 +26,5 @@
 ✩ [`cybersecurity.md`](cybersecurity.md.)
 
 𐙚Quarter 2:
+
+✩ [`Canteen purchase calculator.py`](calculator.py)
