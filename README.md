@@ -9,6 +9,8 @@
 
 LINKS:
 
+𐙚Quarter 1:
+
 ✩ >[Villarino_YrrahGaile_Distance.py](q1/Villarino_YrrahGaile_Distance.py)
 
 ✩ [hello.py](q1/hello.py)
@@ -23,3 +25,6 @@ LINKS:
 
 ✩ [`cybersecurity.md`](cybersecurity.md.)
 
+𐙚Quarter 2:
+
+✩ [`Canteen purchase calculator.py`](calculator.py)
