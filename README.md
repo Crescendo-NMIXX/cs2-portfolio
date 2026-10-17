@@ -7,7 +7,9 @@
 
 ♫¸𝕃𝕚𝕟𝕜𝕤 𝕗𝕠𝕣 𝕤𝕦𝕓𝕞𝕚𝕤𝕤𝕚𝕠𝕟 𝕕𝕠𝕨𝕟 𝕓𝕖𝕝𝕠𝕨¸♫
 
-LINKS:
+𓆩♡𓆪LINKS:
+
+𐙚Quarter 1:
 
 ✩ >[Villarino_YrrahGaile_Distance.py](q1/Villarino_YrrahGaile_Distance.py)
 
@@ -23,3 +25,6 @@ LINKS:
 
 ✩ [`cybersecurity.md`](cybersecurity.md.)
 
+𐙚Quarter 2:
+
+✩ [`Canteen purchase calculator.py`](calculator.py)
