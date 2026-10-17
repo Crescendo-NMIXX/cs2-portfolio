@@ -20,3 +20,7 @@ LINKS:
 [`secure_registration.py`](secure_registration.py)
 
 [`cybersecurity.md`](cybersecurity.md.)
+### Hi there 👋 I'm
+<a href="https://git.io">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</a>
