@@ -27,4 +27,4 @@ LINKS:
 
 𐙚Quarter 2:
 
-✩ [`canteen_purchase_calculator.py`](canteen_purchase_calculator.py)
+✩ [`canteen_purchase_calculator.py`](q2/canteen_purchase_calculator.py)
