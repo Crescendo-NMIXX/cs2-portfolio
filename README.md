@@ -27,4 +27,4 @@ LINKS:
 
 𐙚Quarter 2:
 
-✩ [`Canteen purchase calculator.py`](calculator.py)
+✩ [`canteen_purchase_calculator.py`](canteen_purchase_calculator.py)
