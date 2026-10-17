@@ -1,4 +1,5 @@
-# cs2-portfolio
+# <img width="16" height="16" alt="1f41d" src="https://github.com/user-attachments/assets/46606a8c-c36c-4755-b9fa-2e2c8ea4e257" />
+cs2-portfolio
 ## Yrrah Gaile A. Villarino
 
 ## 8 - Dahlia
@@ -20,7 +21,4 @@ LINKS:
 [`secure_registration.py`](secure_registration.py)
 
 [`cybersecurity.md`](cybersecurity.md.)
-### Hi there 👋 I'm
-<a href="https://git.io">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</a>
+
