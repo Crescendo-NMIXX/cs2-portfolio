@@ -7,17 +7,17 @@ Links for submission down below
 
 LINKS:
 
->[Villarino_YrrahGaile_Distance.py](q1/Villarino_YrrahGaile_Distance.py)
+✩ >[Villarino_YrrahGaile_Distance.py](q1/Villarino_YrrahGaile_Distance.py)
 
-[hello.py](q1/hello.py)
+✩ [hello.py](q1/hello.py)
 
-[Score Checker Source Code](./q1/score_checker.py)
+✩ [Score Checker Source Code](./q1/score_checker.py)
 
-![Score Checker Flowchart](./q1/score_checker_flowchart.png)
+✩ ![Score Checker Flowchart](./q1/score_checker_flowchart.png)
 
-[input_validation.md](./q1/input_validation.md).
+✩ [input_validation.md](./q1/input_validation.md).
 
-[`secure_registration.py`](secure_registration.py)
+✩ [`secure_registration.py`](secure_registration.py)
 
-[`cybersecurity.md`](cybersecurity.md.)
+✩ [`cybersecurity.md`](cybersecurity.md.)
 
