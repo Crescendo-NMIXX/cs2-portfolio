@@ -37,4 +37,6 @@ LINKS:
 
 ✩ [`skip_multiples.py`](q2/skip_multiples.py)
 
+✩ [`multiplication_table_generator.py`](q2/multiplication_table_generator.py)
+
 
