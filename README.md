@@ -30,3 +30,6 @@ LINKS:
 ✩ [`canteen_purchase_calculator.py`](q2/canteen_purchase_calculator.py)
 
 ✩ [`student_performance_evaluator.py`](q2/student_performance_calculator.py)
+
+✩ [`count_even_numbers.py`](q2/count_even_numbers.py)
+
