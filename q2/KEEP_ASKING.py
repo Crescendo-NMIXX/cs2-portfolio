@@ -1,4 +1,4 @@
-answer = input("Enter YES if incorrect: ")
-while answer != "NO":
+answer = input("Enter YES: ")
+while answer != "YES":
   print("Answer again when correct.")
-  answer = input("Enter YES if incorrect: ")
+  answer = input("Enter YES: ")
