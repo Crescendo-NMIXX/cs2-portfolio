@@ -39,4 +39,6 @@ LINKS:
 
 ✩ [`multiplication_table_generator.py`](q2/multiplication_table_generator.py)
 
+✩ [`My_school_bag.py`](q2/My_school_bag.py)
+
 
