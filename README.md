@@ -35,10 +35,10 @@ LINKS:
 
 ✩ [`the_countdown_timer.py`](q2/the_countdown_timer.py)
 
-✩ [`skip_multiples.py`](q2/skip_multiples.py)
+✩ [`skip_multiples.py`](q2/skip_multiples.py) <- Exercise 1
 
-✩ [`multiplication_table_generator.py`](q2/multiplication_table_generator.py)
-
+✩ [`multiplication_table_generator.py`](q2/multiplication_table_generator.py) <- Exercise 2
+ 
 ✩ [`My_school_bag.py`](q2/My_school_bag.py)
 
 ✩ [`travel_destination_manager.py`](q2/travel_destination_manager.py)
