@@ -41,4 +41,6 @@ LINKS:
 
 ✩ [`My_school_bag.py`](q2/My_school_bag.py)
 
+✩ [`travel_destination_manager.py`](q2/travel_destination_manager.py)
+
 
