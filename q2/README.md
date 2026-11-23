@@ -14,3 +14,8 @@
 ✩ [`skip_multiples.py`](q2/skip_multiples.py)
 
 ✩ [`multiplication_table_generator.py`](q2/multiplication_table_generator.py)
+
+✩ [`My_school_bag.py`](q2/My_school_bag.py) <- Exercise 1
+
+✩ [`travel_destination_manager.py`](q2/travel_destination_manager.py) <- Exercise 2
+
